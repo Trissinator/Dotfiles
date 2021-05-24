@@ -1,2 +1,2 @@
 # Dotfiles
-This is where i store my Dotfiles for Distrohoping. Have Fun.
+This is where I store my dotfiles for distrohoping. Have Fun.
